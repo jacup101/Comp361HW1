@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Homework 1</string>
+    <string name="app_title">Madlibs</string>
+    <string name="start_button">Get Started!</string>
+    <string name="input_intent_data">get_input</string>
+    <string name="story_intent_data">get_story</string>
+    <string name="input_title">Input</string>
+    <string name="title_placeholder">My Story</string>
+    <string name="generate_button">Generate</string>
+    <string name="missing_field">Missing Field</string>
+    <string name="go_home">Go Home</string>
+</resources>
